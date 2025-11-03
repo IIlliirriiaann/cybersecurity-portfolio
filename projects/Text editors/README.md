@@ -18,7 +18,7 @@ This lab focuses on discovering **Nano** and **Vim**, two powerful command-line 
 Used **Nano** to edit `security_notes.txt`:
 - Located the target IP using **Ctrl+W**.
 - Replaced `192.168.1.100` with `10.0.0.50` using **Ctrl+\**.
-  ![Nano Screenshot]([screenshots/nano.png])
+  ![Nano Screenshot](screenshots/nano.png)
 
 ---
 
@@ -26,7 +26,7 @@ Used **Nano** to edit `security_notes.txt`:
 Created `exploit_template.py` in **Vim**:
 - Entered **Insert mode** to write a simple Python exploit template.
 - Leveraged **syntax highlighting**, a feature not available in Nano.
-  ![Vim Code Screenshot]([screenshots/vim_code.png])
+  ![Vim Code Screenshot](screenshots/vim_code.png)
 
 ---
 
@@ -37,7 +37,7 @@ Created `security_log.txt` with simulated log entries:
   ```vim
   :%s/203.0.113.50/BLOCKED_IP/g
   ```
-  ![Replacement Screenshot]([screenshots/replacement_regex.png])
+  ![Replacement Screenshot](screenshots/replacement_regex.png)
 
 ---
 
@@ -46,7 +46,7 @@ Tested **multi-window editing**:
 - Split the window horizontally with `:split security_log.txt`.
 - Split the window vertically with `:vsplit vim_reference.txt`.
 - Navigated between windows using **Ctrl+w**.
-  ![Split Screen Screenshot]([screenshots/split.png])
+  ![Split Screen Screenshot](screenshots/split.png)
 
 ---
 

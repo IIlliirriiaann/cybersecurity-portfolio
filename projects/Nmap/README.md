@@ -18,8 +18,8 @@ This lab explores the capabilities of **Nmap**, a powerful network scanning tool
 Scanned **Metasploitable 2** and **Metasploitable 3** (a vulnerable Windows machine) using the `-sV` flag to enumerate service versions.
 
 **Example Output:**
-![Metasploitable 2 Service Scan]([screenshots/SV_meta2.png])
-![Metasploitable 3 Service Scan]([screenshots/SV_meta3.png])
+![Metasploitable 2 Service Scan](screenshots/SV_meta2.png)
+![Metasploitable 3 Service Scan](screenshots/SV_meta3.png)
 
 ---
 
@@ -27,11 +27,11 @@ Scanned **Metasploitable 2** and **Metasploitable 3** (a vulnerable Windows mach
 Used the `-A` flag to gather comprehensive information about the target systems, including OS detection.
 
 **Example Output:**
-![Nmap -A Flag Scan]([screenshots/A_flag.png])
+![Nmap -A Flag Scan](screenshots/A_flag.png)
 
 For focused OS detection, the `-O` flag was used:
 
-![Nmap -O Flag Scan]([screenshots/0_flag.png])
+![Nmap -O Flag Scan](screenshots/0_flag.png)
 
 ---
 
@@ -39,16 +39,16 @@ For focused OS detection, the `-O` flag was used:
 Leveraged NSE scripts to enhance scanning capabilities:
 
 - **SMB Enumeration:** Identified shared resources and vulnerabilities.
-  ![SMB Enumeration Script]([screenshots/script_OS])
+  ![SMB Enumeration Script](screenshots/script_OS.png)
 
 - **Anonymous FTP Login:** Detected misconfigured FTP services allowing anonymous access.
-  ![FTP Script Output]([screenshots/script_FTP])
+  ![FTP Script Output](screenshots/script_FTP.png)
 
 - **EternalBlue Vulnerability (MS17-010):** Confirmed the presence of the critical vulnerability on the Windows machine.
-  ![EternalBlue Script Output]([screenshots/script_EternalBlue])
+  ![EternalBlue Script Output](screenshots/script_EternalBlue.png)
 
 - **HTTP Directory Enumeration:** Enumerated directories on a web server.
-  ![HTTP Script Output]([screenshots/script_HTTP])
+  ![HTTP Script Output](screenshots/script_HTTP.png)
 
 ---
 

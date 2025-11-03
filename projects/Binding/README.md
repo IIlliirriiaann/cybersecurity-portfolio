@@ -18,12 +18,12 @@ This lab explores the creation, stabilization, and detection of **bind shells** 
 Launched a **bind listener** on the target machine and connected from the attacker machine to execute commands and identify the system.
 
 - **Netcat Bind Shell:**
-  ![Target Machine Connection Command]([screenshots/target_connection.png])
-  ![Attacker Machine Netcat Connection]([screenshots/nc.png])
+  ![Target Machine Connection Command](screenshots/target_connection.png)
+  ![Attacker Machine Netcat Connection](screenshots/nc.png)
 
 - **Socat Bind Shell:**
   Improved stability and functionality compared to plain `netcat`.
-  ![Attacker Machine Socat Connection]([screenshots/socat.png])
+  ![Attacker Machine Socat Connection](screenshots/socat.png)
 
 ---
 
@@ -31,7 +31,7 @@ Launched a **bind listener** on the target machine and connected from the attack
 Started a listener on the attacker machine and triggered a reverse connection using **Bash TCP redirection**.
 
 - **Attacker Console:**
-  ![Attacker Machine Reverse Shell Listener]([screenshots/reverse.png])
+  ![Attacker Machine Reverse Shell Listener](screenshots/reverse.png)
 
 ---
 
@@ -39,14 +39,14 @@ Started a listener on the attacker machine and triggered a reverse connection us
 After obtaining shells, stabilized them into **interactive shells** to enable features like autocompletion.
 
 - **Shell Stabilization:**
-  ![Attacker Machine Stabilization Command]([screenshots/stabilization.png])
+  ![Attacker Machine Stabilization Command](screenshots/stabilization.png)
 
 - **Windows Shell via PowerShell:**
   Connected to a Windows machine using a small PowerShell script.
   - **Attacker Console:**
-    ![Attacker Machine Shell]([screenshots/windows_bind.png])
+    ![Attacker Machine Shell](screenshots/windows_bind.png)
   - **Target Console:**
-    ![Windows Target Machine PowerShell]([screenshots/powershell.png])
+    ![Windows Target Machine PowerShell](screenshots/powershell.png)
 
 ---
 
@@ -54,7 +54,7 @@ After obtaining shells, stabilized them into **interactive shells** to enable fe
 Monitored listening ports and new connections using a script to detect unauthorized activity.
 
 - **Port Analysis Script Results:**
-  ![Port Analysis Script Results]([screenshots/port_analysis.png])
+  ![Port Analysis Script Results](screenshots/port_analysis.png)
 
 - **Example Detection:**
   Identified the binding shell process on the attacker machine.
