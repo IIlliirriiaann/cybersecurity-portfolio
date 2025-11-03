@@ -1,0 +1,9 @@
+# Professional Statement
+
+I am a curious, determined, and detail-oriented computer science/cybersecurity student with a strong foundation in both technical and analytical skills. My work with a multitude of tools such as Burp suite, Active Directory or Tcpdump, paired with programming experience in diverse languages like Python, Go, JavaScript or Bash, has shaped a versatile and adaptable technical profile. I value privacy and responsibility, and I approach every task with precision, thoughtful analysis, and a genuine commitment to learning.
+
+My background in computer science has given me both discipline and a passion for solving complex problems. I enjoy exploring new technologies, understanding how systems behave, and continuously expanding my knowledge. International experiences, including time spent working in multicultural environments, have strengthened my adaptability and communication skills. These experiences taught me the importance of collaboration, open-mindedness, and staying calm and persistent when facing new challenges.
+
+What motivates me the most in cybersecurity is the opportunity to learn rapidly while contributing to something meaningful: protecting systems, people, and organizations. I want to be known as someone who is useful, curious, motivated, and reliable, the kind of person who takes initiative and brings value through both technical contributions and teamwork. I thrive in environments where I can experiment, ask questions, and steadily build expertise that will support my long-term career.
+
+As an intern, I offer a combination of technical versatility, sociability, and the ability to quickly figure things out. I enjoy helping others, adapting to new workflows, and navigating unfamiliar technologies. I am eager to join a team where I can develop real-world cybersecurity experience, contribute to impactful projects, and continue growing into a well-rounded security professional.
