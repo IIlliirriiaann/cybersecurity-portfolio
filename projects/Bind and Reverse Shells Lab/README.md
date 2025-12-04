@@ -81,3 +81,8 @@ Monitored listening ports and new connections using a script to detect unauthori
 - **Socat**
 - **Bash**
 - **PowerShell**
+
+---
+
+## Conclusion
+This lab demonstrated why understanding **bind** and **reverse** shells is essential in both offensive and defensive security. Creating and stabilizing these shells showed how attackers establish reliable remote access, while the detection exercises highlighted the importance of monitoring ports and processes to identify suspicious activity. Overall, the lab strengthened practical skills in shell creation, stabilization, and detection, reinforcing their real-world relevance in penetration testing and incident response.

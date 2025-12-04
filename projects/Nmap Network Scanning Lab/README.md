@@ -71,3 +71,6 @@ Leveraged NSE scripts to enhance scanning capabilities:
 - **Metasploitable 2 & 3** (Vulnerable VMs for testing)
 
 ---
+
+## Conclusion
+This lab demonstrated why understanding bind and reverse shells is essential in both offensive and defensive security. Creating and stabilizing these shells showed how attackers establish reliable remote access, while the detection exercises highlighted the importance of monitoring ports and processes to identify suspicious activity. Overall, the lab strengthened practical skills in shell creation, stabilization, and detection, reinforcing their real-world relevance in penetration testing and incident response.

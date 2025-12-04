@@ -62,3 +62,14 @@ Tested **multi-window editing**:
 - **Navigation:** Efficiently move through files using Vim’s keyboard shortcuts.
 - **Search/Replace:** Perform global search and replace operations in Vim.
 - **Multi-Window Editing:** Manage multiple files simultaneously in Vim.
+
+---
+
+## Tools Used
+- **Nano**
+- **Vim**
+
+---
+
+## Conclusion
+This lab highlighted why mastering command-line text editors is valuable for system administration and scripting. Nano proved useful for quick, straightforward edits, while Vim demonstrated its strength in more complex tasks through powerful navigation, search/replace, and multi-window workflows. Understanding these tools improves efficiency, precision, and productivity when working in terminal-based environments, making them essential skills for real-world technical work.
