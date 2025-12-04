@@ -1,4 +1,4 @@
-# Binding and Reverse Shells Lab
+# Bind and Reverse Shells Lab
 
 ## Overview
 This lab explores the creation, stabilization, and detection of **bind shells** and **reverse shells**, essential techniques for penetration testing and red teaming. The project demonstrates how to establish persistent access to target systems, stabilize shells for better usability, and detect unauthorized shell activity.

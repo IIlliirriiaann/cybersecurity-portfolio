@@ -1,4 +1,4 @@
-# Line Text Editors Lab: Nano and Vim
+# Text Editors Lab: Nano and Vim
 
 ## Overview
 This lab focuses on discovering **Nano** and **Vim**, two powerful command-line text editors essential for system administration, scripting, and configuration management. The project demonstrates basic and advanced editing techniques, including search/replace, syntax highlighting, and multi-window editing.
